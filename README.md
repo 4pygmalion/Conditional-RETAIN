@@ -16,7 +16,7 @@ Therefore, the contribution of the Nth time-variant variable ω(ŷi, xjN)(T) and
 
 ![image](https://user-images.githubusercontent.com/45510932/113867040-014e1280-97e9-11eb-9374-d5319f90ef81.png)
 
-
+where each contribution coefficient of the time-variant variable is , and each contribution coefficient of the time-fixed variable is .
 
 
 ---------------------------------------------------------------

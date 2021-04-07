@@ -1,9 +1,14 @@
 # Conditional-RETAIN
 
-Conditional RETAIN Model
+Conditional RETAIN Model 
 Original article: https://mhealth.jmir.org/2021/3/e22183 
 
 ![model](https://user-images.githubusercontent.com/45510932/113866095-dc0cd480-97e7-11eb-89fe-7d3f650fff99.PNG)
+
+### Requirement
+The latest vesrion  of this repo uses TF Keras, so you only need TF 2.0+ installed  
+tensorflow 2.x 
+
 
 ---------------------------------------------------------------------
 Interpretation
@@ -29,3 +34,11 @@ Contribution in timeseries part
 Weigth in W matrix (fusion layer)
 
 ![w](https://user-images.githubusercontent.com/45510932/113866090-da431100-97e7-11eb-8658-7bf2311df2b9.PNG)
+
+
+
+-------- 
+If you want to download this code, use following commands:
+```bash
+$ git clone https://github.com/4pygmalion/Conditional-RETAIN.git
+```

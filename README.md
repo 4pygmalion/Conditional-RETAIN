@@ -10,9 +10,6 @@ built by Tensorflow 2.x
 ![model](https://user-images.githubusercontent.com/45510932/113866095-dc0cd480-97e7-11eb-89fe-7d3f650fff99.PNG)
 
 
-### Requirement
-The latest vesrion  of this repo uses TF Keras, so you only need TF 2.0+ installed  
-tensorflow 2.x 
 
 #### How to get model and fit ?
 ```python3 
@@ -137,6 +134,12 @@ sns.heatmap(contr_coef.T, cmap='coolwarm', annot=True, fmt='.3f',
 
 
 -------- 
+### Requirement
+The latest vesrion  of this repo uses TF Keras, so you only need TF 2.0+ installed 
+
+tensorflow 2.x 
+
+
 #### Install
 If you want to download this code, use following commands:
 ```bash

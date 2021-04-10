@@ -1,6 +1,6 @@
 # Conditional-RETAIN
 
-Conditional RETAIN Model 
+Conditional RETAIN Model which can be fed both static varaible and time series data.
 
 Original article: https://mhealth.jmir.org/2021/3/e22183 
 

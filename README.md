@@ -8,6 +8,7 @@ built by Tensorflow 2.x
 
 ![model](https://user-images.githubusercontent.com/45510932/113866095-dc0cd480-97e7-11eb-89fe-7d3f650fff99.PNG)
 
+
 ### Requirement
 The latest vesrion  of this repo uses TF Keras, so you only need TF 2.0+ installed  
 tensorflow 2.x 

@@ -2,6 +2,8 @@
 
 Conditional RETAIN Model 
 Original article: https://mhealth.jmir.org/2021/3/e22183 
+built by Tensorflow 2.x
+
 
 ![model](https://user-images.githubusercontent.com/45510932/113866095-dc0cd480-97e7-11eb-89fe-7d3f650fff99.PNG)
 

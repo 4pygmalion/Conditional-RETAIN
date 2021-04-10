@@ -16,7 +16,7 @@ tensorflow 2.x
 #### How to get model and fit ?
 ```python3 
 
-rom tensorflow.keras import backend as K
+from tensorflow.keras import backend as K
 from tensorflow.keras.optimizers import RMSprop ,SGD
 from tensorflow.keras.callbacks import ModelCheckpoint, ReduceLROnPlateau
 
